@@ -1,0 +1,19 @@
+{
+  "name": "upsmile.ua",
+  "version": "0.0.0.1",
+  "homepage": "https://github.com/dgordienko/dgordienko.github.io",
+  "authors": [
+    "Dmitry Gordienko <d.gordienko@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-metrics-graphics": "*"
+  }
+}
