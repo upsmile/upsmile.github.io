@@ -14,6 +14,7 @@
     "tests"
   ],
   "dependencies": {
-    "angular-metrics-graphics": "*"
+    "angular-metrics-graphics": "*",
+    "angular-moment": "~0.10.1"
   }
 }
